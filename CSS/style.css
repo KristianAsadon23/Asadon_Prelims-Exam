@@ -1,0 +1,24 @@
+h3 {
+    text-align: center;
+    color: blue;
+}
+footer {
+    background-color: rgba(190, 5, 5, 0.959);
+}
+a {
+    color: black;
+}
+h4 {
+    color: maroon;
+}
+  .btn {
+    background-color: #f70606;
+    border-color: rgb(255, 11, 11);
+}
+
+.carousel
+{
+ margin: auto;
+  width:640px; 
+  height:800px; 
+}
